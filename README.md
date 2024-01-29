@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IRFAN ULLAH KHAN</h1>
+<h1 align="center">Hi , I'm IRFAN ULLAH KHAN</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="550" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif"
 
