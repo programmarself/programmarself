@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Work on and busy with **Data Science,Machine Learning**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/irfan-ullah-khan-4a2871208](www.linkedin.com/in/irfan-ullah-khan-4a2871208)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/iukhan/)
 
 - 📝 I regularly write articles on [https://medium.com/@programmarself](https://medium.com/@programmarself)
 
